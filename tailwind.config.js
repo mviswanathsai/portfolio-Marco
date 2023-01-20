@@ -26,9 +26,9 @@ module.exports = {
       },
       content: {
         brush: "url('./assets/brush.png')",
-        person1: "url('C:/Users/viswa/Desktop/projext/portfolio-projext/public/assets/person-1.png')", 
-        person2: "url('C:/Users/viswa/Desktop/projext/portfolio-projext/public/assets/person-2.png')",
-        person3: "url('C:/Users/viswa/Desktop/projext/portfolio-projext/public/assets/person-3.png')",
+        person1: "url('/public/assets/person-1.png')", 
+        person2: "url('/public/assets/person-2.png')",
+        person3: "url('/public/assets/person-3.png')",
       },
     },
     screens: {
